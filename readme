@@ -1,0 +1,29 @@
+open folder-> type cmd on the above
+
+write this on cmd-> 
+
+javac Person.java User.java Admin.java 
+Product.java Order.java CartItem.java UserAccount.java 
+ProductNotFoundException.java UserNotFoundException.java 
+InsufficientStockException.java OnlineShoppingSystem.java
+
+then type -> 
+
+java OnlineShoppingSystem
+
+then you'll be getting ->
+
+Welcome to Online Shopping System
+1. User Login
+2. Admin Login
+3. Exit
+
+enter 1 then username-john password-password
+
+iterate all the functionalities.
+
+
+enter 2 then adminID- A001. then iterate all the functionalities
+
+
+enter 3 for exit
